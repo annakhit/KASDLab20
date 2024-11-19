@@ -1,0 +1,12 @@
+int count = 10;
+float pi = 3.14;
+double radius = 5.2;
+int max_value = 2147483647;
+char symbol = 'A';
+string name = "John Doe";
+float very_small_number = 0.000001;
+MyCustomType custom;
+int x = ;
+float y = 3.14 hello;
+int count = 20;
+float pi = 3.14159;
